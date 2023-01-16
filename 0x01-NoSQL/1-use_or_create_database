@@ -1,0 +1,2 @@
+//creates a database if not null
+use my_db;
